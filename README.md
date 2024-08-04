@@ -1,4 +1,4 @@
-<i class="fas fa-book"></i> ML-Based Book Recommendation Project
+<h1> ML-Based Book Recommendation System </h1>
 This repository contains an ML-based book recommendation system that suggests books based on user ratings and book content. The project leverages machine learning techniques to provide personalized book recommendations.
 
 <i class="fas fa-features"></i> Features
